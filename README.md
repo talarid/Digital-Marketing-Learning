@@ -9,6 +9,8 @@ Manage and grow social media presence, using the right channels, tools, and stra
 ## Google Ads
 ## Data Analysis
 Interpreting data to guide marketing strategies
+
+https://analytics.google.com/analytics/academy/
 ## Copywriting
 ### Story Telling
 ## Email
