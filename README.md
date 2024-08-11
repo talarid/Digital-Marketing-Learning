@@ -12,6 +12,9 @@ Interpreting data to guide marketing strategies
 ### Google Analytics
 
 https://analytics.google.com/analytics/academy/
+### SEMRush
+
+https://www.semrush.com
 ## Copywriting
 Story telling
 ## Email
