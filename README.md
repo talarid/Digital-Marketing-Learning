@@ -22,3 +22,4 @@ Design and execute effective email marketing campaigns, using segmentation, pers
 ## Campaigns
 ## Lead Generation
 Attract and capture qualified leads for products & services, using landing pages, forms, CTAs, and other methods to collect contact information and nurture prospects through the sales funnel.
+## UI/UX
