@@ -1,14 +1,18 @@
 # Digital-Marketing-Learning
 Tools, resources, reading, and everything Digital Marketing 
-## SEO
+## SEO & SEM
 Optimize content and website for search engines, using keywords, meta tags, links, and other best practices to increase  online visibility and traffic.
 ## Content Creation
 ## Social Media
 Manage and grow social media presence, using the right channels, tools, and strategies to reach and interact with the target audience, and to amplify brand awareness.
 ## Graphic Design
+### After Effects
 ### Adobe Illustrator
 ### Adobe Indesign
-## Google Ads
+### Content Curation
+## Digital Ad Managment
+### Google Ads
+### Social Media Paid Ads
 ## Data & Analytics
 Interpreting data to guide marketing strategies
 ### Google Analytics
@@ -25,3 +29,6 @@ Design and execute effective email marketing campaigns, using segmentation, pers
 ## Lead Generation
 Attract and capture qualified leads for products & services, using landing pages, forms, CTAs, and other methods to collect contact information and nurture prospects through the sales funnel.
 ## UI/UX
+## Website Design & Content Creation
+## Project Management
+### Task Management 
