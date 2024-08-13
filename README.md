@@ -6,6 +6,8 @@ Optimize content and website for search engines, using keywords, meta tags, link
 ## Social Media
 Manage and grow social media presence, using the right channels, tools, and strategies to reach and interact with the target audience, and to amplify brand awareness.
 ## Graphic Design
+### Adobe Illustrator
+### Adobe Indesign
 ## Google Ads
 ## Data & Analytics
 Interpreting data to guide marketing strategies
