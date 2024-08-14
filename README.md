@@ -1,8 +1,7 @@
 # Digital-Marketing-Learning
 Tools, resources, reading, and everything Digital Marketing 
 ## SEO & SEM
-SEO is essentially your websites visibility, the goal is to increase visibility
-Optimize content and website for search engines, using keywords, meta tags, links, and other best practices to increase  online visibility and traffic.
+SEO is essentially your websites visibility. The goal is to increase online visibility and traffic by optimizing content and website for search engines, using keywords, meta tags, links, and other best practices.
 ## Content Creation
 ## Social Media
 Manage and grow social media presence, using the right channels, tools, and strategies to reach and interact with the target audience, and to amplify brand awareness.
