@@ -37,4 +37,6 @@ Freecode Camp - https://www.freecodecamp.org/learn
 
 Figma https://www.figma.com/
 ## Project Management
+Trello https://trello.com/
+Notion https://www.notion.so/
 ### Task Management 
