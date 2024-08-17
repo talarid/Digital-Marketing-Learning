@@ -34,5 +34,7 @@ Attract and capture qualified leads for products & services, using landing pages
 Freecode Camp - https://www.freecodecamp.org/learn
 ### Coding Languages
 ### Wireframing
+
+Figma https://www.figma.com/
 ## Project Management
 ### Task Management 
