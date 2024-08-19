@@ -8,6 +8,7 @@ Manage and grow social media presence, using the right channels, tools, and stra
 ## Graphic Design
 ### After Effects
 ### Adobe Illustrator
+https://www.youtube.com/watch?v=Ib8UBwu3yGA
 ### Adobe Indesign
 ### Content Curation
 ## Digital Ad Managment
