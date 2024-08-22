@@ -3,6 +3,7 @@ Tools, resources, reading, and everything Digital Marketing
 ## SEO & SEM
 SEO is essentially your websites visibility. The goal is to increase online visibility and traffic by optimizing content and website for search engines, using keywords, meta tags, links, and other best practices.
 ## Content Creation
+https://blog.hubspot.com/marketing/business-blog-editorial-calendar-templates
 ## Social Media
 Manage and grow social media presence, using the right channels, tools, and strategies to reach and interact with the target audience, and to amplify brand awareness.
 ## Graphic Design
