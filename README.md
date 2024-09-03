@@ -4,6 +4,8 @@ Tools, resources, reading, and everything Digital Marketing
 https://blog.hubspot.com/marketing/technical-skills
 ## SEO & SEM
 SEO is essentially your websites visibility. The goal is to increase online visibility and traffic by optimizing content and website for search engines, using keywords, meta tags, links, and other best practices.
+
+https://shanebarker.com/blog/best-seo-audit-tools/
 ## Content Creation
 https://blog.hubspot.com/marketing/business-blog-editorial-calendar-templates
 ## Social Media
