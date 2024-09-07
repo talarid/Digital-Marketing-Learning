@@ -21,6 +21,9 @@ https://www.youtube.com/watch?v=Ib8UBwu3yGA
 ### Social Media Paid Ads
 ## Data & Analytics
 Interpreting data to guide marketing strategies
+### Excel
+
+https://www.datacamp.com/cheat-sheet/getting-started-with-excel-cheat-sheet
 ### Google Analytics
 
 https://analytics.google.com/analytics/academy/
