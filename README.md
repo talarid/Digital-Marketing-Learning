@@ -24,6 +24,10 @@ Interpreting data to guide marketing strategies
 ### Excel
 
 https://www.datacamp.com/cheat-sheet/getting-started-with-excel-cheat-sheet
+
+### DeepNote
+
+https://deepnote.com/
 ### Google Analytics
 
 https://analytics.google.com/analytics/academy/
